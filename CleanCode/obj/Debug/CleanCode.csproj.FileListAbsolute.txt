@@ -1,0 +1,7 @@
+D:\Cursos\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+D:\Cursos\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+D:\Cursos\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+D:\Cursos\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+D:\Cursos\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+D:\Cursos\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+D:\Cursos\CleanCode\CleanCode\obj\Debug\CleanCode.pdb

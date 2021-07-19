@@ -1,0 +1,6 @@
+D:\Cursos\CleanCode\CleanCode\bin\Release\CleanCode.exe.config
+D:\Cursos\CleanCode\CleanCode\bin\Release\CleanCode.exe
+D:\Cursos\CleanCode\CleanCode\bin\Release\CleanCode.pdb
+D:\Cursos\CleanCode\CleanCode\obj\Release\CleanCode.csproj.CoreCompileInputs.cache
+D:\Cursos\CleanCode\CleanCode\obj\Release\CleanCode.exe
+D:\Cursos\CleanCode\CleanCode\obj\Release\CleanCode.pdb
